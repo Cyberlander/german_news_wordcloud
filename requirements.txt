@@ -14,7 +14,7 @@ de-core-news-md==1.0.0
 dill==0.2.7.1
 Django==1.9.12
 django-rq==0.9.6
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 Flask==0.12.2
 Flask-Login==0.4.0
 ftfy==4.4.3
