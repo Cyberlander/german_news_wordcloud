@@ -12,7 +12,7 @@ Cython==0.26
 cytoolz==0.8.2
 de-core-news-md==1.0.0
 dill==0.2.7.1
-Django==1.9.12
+Django==2.2.24
 django-rq==0.9.6
 djangorestframework==3.6.4
 Flask==0.12.2
