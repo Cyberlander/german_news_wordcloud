@@ -33,7 +33,7 @@ newsapi==0.1.1
 nltk==3.2.4
 numpy==1.13.1+mkl
 olefile==0.44
-opencv-python==3.1.0.5
+opencv-python==3.4.0.12
 pandas==0.20.3
 passage==0.2.4
 pathlib==1.0.1
